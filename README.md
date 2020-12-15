@@ -1,8 +1,11 @@
-# Version Control with Git
+Updated Readme
 
 This is the repo for [Udacity's Version Control with Git course](). In the course, students will learn version control while learning the basics to intermediate knowledge of Git.
 
 This repo contains the source code of a blog project that will be used throughout the course.
+
+Update the repo and commit the changes
+Second set of changes done
 
 ## Table of Contents
 
